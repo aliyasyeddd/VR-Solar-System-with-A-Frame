@@ -22,9 +22,7 @@ You can run the project locally or deploy it to GitHub Pages for a live VR exper
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/your-username/vr-solar-system.git
-cd vr-solar-
 
 ### 2. Open index.html in your browser
 
